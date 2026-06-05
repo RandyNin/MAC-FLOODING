@@ -90,6 +90,8 @@ El switch recibe cada trama, lee la MAC de origen y la registra como un nuevo di
 
 ## Entorno de laboratorio
 
+<img src="IMG/Topology.png" alt="Descripción" width="735"/>
+
 |Dispositivo|Rol|Interfaz en Sw-1|IP|MAC|
 |:--|:--|:--|:--|:--|
 |R-1|Gateway / DHCP / NAT|Gi1/0|20.25.6.60/24|0c:16:94:84:00:00|
